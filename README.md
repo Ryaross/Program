@@ -20,5 +20,10 @@ O aumento no tamanho fez com que o resultado final tivesse mais detalhes, e o us
 
 ================================================================================================================================================================
 
-A Charrete: 
+O Maomeiro: 
 
+Obra Original:
+
+O Mamoeiro é uma obra da fase artística de Tarsila conhecida como Pau-Brasil, que se caracteriza por telas de cores fortes, temas tropicais e a presença de personagens tipicamente brasileiros. Ela retrata a ocupação dos morros das cidades brasileiras pelas camadas populares da população, mostrando a vida simples, o dia a dia das pessoas (roupas no varal), vizinhas que se visitam, mãe com filhos.
+
+A simplificação e estilização das formas presentes na obra promovem certa relação com o cubismo. 
