@@ -51,10 +51,6 @@ O aumento no tamanho fez com que o resultado final tivesse mais detalhes, e o us
 
 # A Charrete
 
-### Obra Original 
-
-
-
 ### Releitura
 
 lorem lorem lorem
