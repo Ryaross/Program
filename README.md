@@ -8,7 +8,9 @@ A cobra grande apresentada no quadro de Tarsila é um bicho que assusta e que te
 
 ### Releitura
 
-lorem lorem lorem
+- Mudança no tamanho: de 60,5 x 72,5 cm a  2x2 m;
+- Mudança no material: de óleo sobre tela a tinta PVA sobre parede;
+- Mudança nos elementos: degrades, troca do ovo pelos livros e mudança na espécie da cobra.
 
 # O Mamoeiro
 
@@ -19,7 +21,9 @@ Esta obra mostra o início da ocupação dos morros das grandes cidades. Mostran
 
 ### Releitura
 
-lorem lorem lorem
+- Mudança no tamanho: de 65x70 cm a 150x220 cm;
+- Mudança no material:  de óleo sobre tela a tinta PVA sobre tela;
+- Mudança nos elementos: corte das laterais e efeito tridimensional.
 
 # Os Operários
 
@@ -31,7 +35,9 @@ São cinquenta e um rostos, muitos deles sobrepostos, todos sem o corpo registra
 
 ### Releitura
 
-Enquanto a obra original mostra vários rostos de operários amontoados na frente de uma fábrica. A releitura substitui os operários por alunos e a fábrica pela estrutura da Etec de Peruíbe, passando uma imagem atual e trazendo representatividade aos estudantes. A obra original tem dimensões de 150cm x 205cm e foi pintada com tinta a óleo, a releitura tem 140x170cm e foi pintada com tinta PVA. As cores utilizadas nessa tela são mais vivas e vibrantes, revertendo o clima depressivo da obra original.
+- Mudança no tamanho: de 150cm x 205 cm a 140x170 cm;
+- Mudança no material: de óleo sobre tela a tinta PVA sobre tela;
+- Mudança nos elementos: troca de operários por aluno, de fábrica pela Etec de Peruíbe e utilização de cores mais vibrantes.
 
 # A Onda
 
@@ -44,13 +50,17 @@ Na obra A Onda, a paisagem local é representada como uma força selvagem, agres
 
 As principais diferenças da versão feita pelo aluno Hector Vieira em comparação com a obra original são:
 
-O tamanho (a original tem o tamanho de 26,5x36,2cm; a releitura tem 50x60cm);
-O material (a original foi feita em óleo sobre madeira, a releitura foi feita em PVA sobre tela).
-
-O aumento no tamanho fez com que o resultado final tivesse mais detalhes, e o uso da tinta PVA deu um acabamento fosco à obra.
+- Mudança no tamanho: de 26,5x36,2 cm a 50x60 cm;
+- Mudança no material: de óleo sobre madeira a tinta PVA sobre tela;
+- Mudança nos elementos: detalhes, cores.
 
 # A Charrete
 
+### Obra Original
+
+A obra a Charrete de Georgina Albuquerque está localizada no Rio de Janeiro, no museu nacional Belas Artes na coleção de Pintura brasileira. A pintora utilizou a técnica de óleo sobre a tela, popularmente conhecida como pintura a óleo, possuindo inspirações impressionistas. O impressionismo tem como seu foco mostrar através das artes plásticas, principalmente a pintura, os efeitos da luz do sol e apresentar as impressões pessoais dos artistas através de cores puras, também chamadas de cores primárias. uma das suas principais características é o registro das tonalidades das cores que a luz do sol produz em determinados momentos, sombras luminosas e coloridas, misturas das tintas diretamente na tela, com pequenas pinceladas e figuras sem contornos nítidos (não segue um padrão).
+
 ### Releitura
 
-lorem lorem lorem
+- Aumento de tamanho;
+- Mudança nos elementos: detalhes, cores.
